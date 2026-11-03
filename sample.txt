@@ -1,2 +1,2 @@
 learning git and github
-this is my first commit using vs code.
+This is my second change.
